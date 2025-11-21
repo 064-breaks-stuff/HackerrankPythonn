@@ -1,0 +1,1 @@
+This repository contains all the Python coding solutions I've come up with while going through my Hackerrank journey. Please note that this repo only contains solutions, it does not contain their corresponding questions as a lot of questions used characters that were not replicable when copy pasting.
